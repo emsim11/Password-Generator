@@ -17,8 +17,6 @@
 
 </div>
 
-
-
 ## Description
 
 This web application uses JavaScript to allow users to generate a random password. Random passwords can be helpful, as they are harder to hack! You should not include personal data in your passwords, so this random password generator solves the real-world issue of creating passwords that make it difficult to hack. This Challenge allowed me to apply the JavaScript code I learned about in Module 3, including event listeners, for loops, and logging to the console.
